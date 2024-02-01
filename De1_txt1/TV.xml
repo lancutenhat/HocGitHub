@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TV TenTV="TenTV1" xmlns="http://tempuri.org/thuvien.xsd">
+  <NhaXB TenNXB="Giáo dục">
+    <Sach MaSach="MaSac1">
+      <TenSach>TenSach1</TenSach>
+      <TheLoai>TheLoai1</TheLoai>
+      <SoTrang>51</SoTrang>
+    </Sach>
+    <Sach MaSach="MaSac2">
+      <TenSach>TenSach2</TenSach>
+      <TheLoai>TheLoai2</TheLoai>
+      <SoTrang>399</SoTrang>
+    </Sach>
+    <Sach MaSach="MaSac3">
+      <TenSach>TenSach3</TenSach>
+      <TheLoai>TheLoai3</TheLoai>
+      <SoTrang>52</SoTrang>
+    </Sach>
+  </NhaXB>
+  <NhaXB TenNXB="Giáo dục">
+    <Sach MaSach="MaSac4">
+      <TenSach>TenSach4</TenSach>
+      <TheLoai>TheLoai4</TheLoai>
+      <SoTrang>398</SoTrang>
+    </Sach>
+    <Sach MaSach="MaSac5">
+      <TenSach>TenSach5</TenSach>
+      <TheLoai>TheLoai5</TheLoai>
+      <SoTrang>53</SoTrang>
+    </Sach>
+    <Sach MaSach="MaSac6">
+      <TenSach>TenSach6</TenSach>
+      <TheLoai>TheLoai6</TheLoai>
+      <SoTrang>397</SoTrang>
+    </Sach>
+  </NhaXB>
+  <NhaXB TenNXB="Giáo dục">
+    <Sach MaSach="MaSac7">
+      <TenSach>TenSach7</TenSach>
+      <TheLoai>TheLoai7</TheLoai>
+      <SoTrang>54</SoTrang>
+    </Sach>
+    <Sach MaSach="MaSac8">
+      <TenSach>TenSach8</TenSach>
+      <TheLoai>TheLoai8</TheLoai>
+      <SoTrang>396</SoTrang>
+    </Sach>
+    <Sach MaSach="MaSac9">
+      <TenSach>TenSach9</TenSach>
+      <TheLoai>TheLoai9</TheLoai>
+      <SoTrang>55</SoTrang>
+    </Sach>
+  </NhaXB>
+</TV>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xml" href="thuvien.xslt"?>
+<TV TenTV="TenTV1" xmlns="http://tempuri.org/thuvien.xsd">
+	<NhaXB TenNXB="Giáo dục">
+		<Sach MaSach="S1">
+			<TenSach>Tiếng Việt</TenSach>
+			<TheLoai>Tiểu học</TheLoai>
+			<SoTrang>100</SoTrang>
+		</Sach>
+		<Sach MaSach="S2">
+			<TenSach>Toán</TenSach>
+			<TheLoai>Tiểu học</TheLoai>
+			<SoTrang>200</SoTrang>
+		</Sach>
+		<Sach MaSach="S3">
+			<TenSach>Giáo dục công dân</TenSach>
+			<TheLoai>Đạo đức</TheLoai>
+			<SoTrang>50</SoTrang>
+		</Sach>
+	</NhaXB>
+	<NhaXB TenNXB="Giáo dục">
+		<Sach MaSach="S4">
+			<TenSach>Java</TenSach>
+			<TheLoai>Lập trình</TheLoai>
+			<SoTrang>398</SoTrang>
+		</Sach>
+		<Sach MaSach="S5">
+			<TenSach>Lịch sử Đảng</TenSach>
+			<TheLoai>Chính trị</TheLoai>
+			<SoTrang>53</SoTrang>
+		</Sach>
+		<Sach MaSach="S6">
+			<TenSach>Vật lý</TenSach>
+			<TheLoai>Giáo dục</TheLoai>
+			<SoTrang>397</SoTrang>
+		</Sach>
+	</NhaXB>
+	
+</TV>
