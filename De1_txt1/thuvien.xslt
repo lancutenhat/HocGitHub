@@ -22,6 +22,7 @@
 						<th>STT</th>
 						<th>Tên sách</th>
 						<th>Số trang</th>
+						<th>Tác giả</th>
 						<th>Giá</th>
 					</tr>
 					<xsl:for-each select="x:NhaXB/x:Sach">
@@ -35,6 +36,9 @@
 							</td>
 							<td>
 								<xsl:value-of select="x:SoTrang"/>
+							</td>
+							<td>
+								<xsl:value-of select="x:TacGia"/>
 							</td>
 							<td>
 								<xsl:if test="x:SoTrang &lt;= 100">

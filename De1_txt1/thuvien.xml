@@ -6,16 +6,19 @@
 			<TenSach>Tiếng Việt</TenSach>
 			<TheLoai>Tiểu học</TheLoai>
 			<SoTrang>100</SoTrang>
+			<TacGia>Nam Cao</TacGia>
 		</Sach>
 		<Sach MaSach="S2">
 			<TenSach>Toán</TenSach>
 			<TheLoai>Tiểu học</TheLoai>
 			<SoTrang>200</SoTrang>
+			<TacGia>Huy Cận</TacGia>
 		</Sach>
 		<Sach MaSach="S3">
 			<TenSach>Giáo dục công dân</TenSach>
 			<TheLoai>Đạo đức</TheLoai>
 			<SoTrang>50</SoTrang>
+			<TacGia>Tố Hữu</TacGia>
 		</Sach>
 	</NhaXB>
 	<NhaXB TenNXB="Giáo dục">
@@ -23,16 +26,19 @@
 			<TenSach>Java</TenSach>
 			<TheLoai>Lập trình</TheLoai>
 			<SoTrang>398</SoTrang>
+			<TacGia>Huy Cận</TacGia>
 		</Sach>
 		<Sach MaSach="S5">
 			<TenSach>Lịch sử Đảng</TenSach>
 			<TheLoai>Chính trị</TheLoai>
 			<SoTrang>53</SoTrang>
+			<TacGia>Thế Lữ</TacGia>
 		</Sach>
 		<Sach MaSach="S6">
 			<TenSach>Vật lý</TenSach>
 			<TheLoai>Giáo dục</TheLoai>
 			<SoTrang>397</SoTrang>
+			<TacGia>Bà Huyện Thanh Quan</TacGia>
 		</Sach>
 	</NhaXB>
 	
