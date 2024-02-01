@@ -37,6 +37,7 @@
 										<xs:element name="TenSach" type="xs:string"></xs:element>
 										<xs:element name="TheLoai" type="xs:string"></xs:element>
 										<xs:element name="SoTrang" type="SoTrang"></xs:element>
+										<xs:element name="TacGia" type="xs:string"></xs:element>
 									</xs:sequence>
 									<xs:attribute name="MaSach" type="MaSachType" use="required"></xs:attribute>
 								</xs:complexType>
